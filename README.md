@@ -26,3 +26,4 @@ Sprint 1:
 
 
 ![Unity 147](https://github.com/ElifSeker1/Game/assets/115024169/50590dfd-f347-4ba4-99b3-89f072a611e2)
+Günlük Scrum : Takım üyeleri gruptan çıktıkları için scrum sohbetleri yer almamaktadır.
