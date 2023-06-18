@@ -18,5 +18,6 @@ Oğuzhan Tarık: Aktif Olmayan Üye
 Küçük dinazorun karşına çıkan engellere karşı mücadelesi.
 
 Hedef Kitle
+:
 Eğlenmek isteyen  oyun severler
 
