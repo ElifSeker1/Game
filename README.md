@@ -31,3 +31,8 @@ Günlük Scrum : Takım üyeleri gruptan çıktıkları için sohbet bulunmamakt
 Ürün İş Listesi URL'si:
 
 https://miro.com/app/board/uXjVM9zsEQg=/
+
+
+
+
+
