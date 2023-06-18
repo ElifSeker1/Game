@@ -15,3 +15,8 @@ Oğuzhan Tarık: Aktif Olmayan Üye
 --DinoLeap--
 
 Ürün Açıklaması
+Küçük dinazorun karşına çıkan engellere karşı mücadelesi.
+
+Hedef Kitle
+Eğlenmek isteyen  oyun severler
+
