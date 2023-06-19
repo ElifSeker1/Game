@@ -4,7 +4,9 @@ Takım İsmi Unity 147
 
 Ürün İle İlgili Bilgiler
 
-Takım Elemanları Elif Şeker: Scrum Master / Geliştirici 
+Takım Elemanları: 
+
+Elif Şeker: Scrum Master / Geliştirici 
 Elvin Çavuş: Aktif Olmayan Üye
 Hatice Adıgüzel: Aktif Olmayan Üye
 Oğuzhan Tarık: Aktif Olmayan Üye 
@@ -17,7 +19,22 @@ Oğuzhan Tarık: Aktif Olmayan Üye
 
 Kendi dinazor kahramanınızı yönlendirerek engelleri aşmalı, altınları toplamalı ve macera dolu seviyeleri tamamlamalısınız. Akıcı oyun mekaniği, görsel olarak etkileyici dünyalar ve zorlu engellerle dolu bir deneyim sunar. Reflekslerinizi ve becerilerinizi test ederken, dinazor dünyasının keyfini çıkarın.
 
+
+
+
+Ürün Özellikleri:
+Canlı ve sevimli bir dinazor karakteriyle heyecanlı bir oyun deneyimi
+
+Zıplama yeteneği sayesinde engelleri kolayca aşma imkanı
+
+Renkli ve etkileyici arka plan tasarımı
+
+Farklı zorluk seviyelerine sahip seviyeler
+
+
+
 Hedef Kitle :
+
 Çocuklar
 
 Gençler
@@ -27,6 +44,8 @@ Dinazorları sevenler
 Basit ve eğlenceli oyunları tercih edenler
 
 Oyun tutkunları
+
+
 
 
 Ürün İş Listesi URL'si:
