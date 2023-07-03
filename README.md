@@ -92,7 +92,28 @@ Sprint Review:
 
 
 
+Sprint 2
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
+Günlük Scrum : Takım üyeleri gruplarının çıktıları için sohbet mümkün değildir.
+
+
+
+Sprint board güncellemesi :
+![Ekran görüntüsü 2023-07-03 172454](https://github.com/ElifSeker1/Game/assets/115024169/a0e642b3-fc1b-45a8-8337-91a020ed9199)
+
+
+Sprint Review:  
+
+ Sprint sürecinden elde edilen deneyimler doğrultusunda gelecek sprintler için iyileştirmeler planlanmaktadır. 
+ Hala yapım aşamasında olduğunu ve bazı eksikliklerin bulunduğunu belirtmek isterim.
+ 
+ Sprint Review izlenimleri: Elif Şeker
+
+
+ Sprint Retrospektifi:
+ 
+ Sprint retrospektifinde elde ettiğim öğrenimlerle birlikte gelecek sprintlerde daha iyi bir performans sergilemektir.
 
 
 
