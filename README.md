@@ -92,7 +92,24 @@ Sprint Review:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sprint 2
+
+
+
+
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 Günlük Scrum : Takım üyeleri gruplarının çıktıları için sohbet mümkün değildir.
@@ -106,6 +123,9 @@ Sprint board güncellemesi :
 Sprint Review:  
 
  Sprint sürecinden elde edilen deneyimler doğrultusunda gelecek sprintler için iyileştirmeler planlanmaktadır. 
+
+
+ 
  Hala yapım aşamasında olduğunu ve bazı eksikliklerin bulunduğunu belirtmek isterim.
  
  Sprint Review izlenimleri: Elif Şeker
