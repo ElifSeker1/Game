@@ -139,3 +139,64 @@ Sprint Review:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sprint 3
+
+
+
+
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+Günlük Scrum : Takım üyeleri gruplarının çıktıları için sohbet mümkün değildir.
+
+
+Çıktı:
+
+
+![Screenshot_2](https://github.com/ElifSeker1/Game/assets/115024169/8852e52c-58a9-4f7c-b013-8166960876a8)
+
+
+
+
+
+
+Sprint board güncellemesi :
+
+![Screenshot_1](https://github.com/ElifSeker1/Game/assets/115024169/e27e3148-4bb2-476a-b3b9-dc75902e1b17)
+
+
+
+https://miro.com/app/board/uXjVM9zsEQg=/
+
+Sprint Review:  
+
+ Sprint sürecinden elde edilen deneyimler doğrultusunda gelecek sprintler için iyileştirmeler planlanmaktadır. 
+
+
+ 
+ 
+ Sprint Review izlenimleri: Elif Şeker
+
+
+ Sprint Retrospektifi:
+ 
+ Sprint retrospektifinde elde ettiğim öğrenimlerle birlikte gelecek sprintlerde daha iyi bir performans sergilemektir.
+
+
+
+
+
+
+
